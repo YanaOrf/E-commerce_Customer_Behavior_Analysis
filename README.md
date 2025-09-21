@@ -60,9 +60,7 @@ Data set is available via link: [https://www.kaggle.com/datasets/uom190346a/e-co
 ### 2. Customer Segmentation & Profiles
 
     • Average customer age: [33.6 years, 36.4 years - females, 30.8 - males].
-
     • Gender distribution: [50% Female, 50% Male].
-
     • Customer groups with highest spend: 
 	    Men spend more: they buy more expensive goods and more items. As for the item's price: despite the lower median price, the price distribution for women is wider. The maximum price is $74-83, while the maximum price for men is $72-77.That is, women purchase more expensive products.
         
@@ -84,9 +82,9 @@ Age Group 26-34
 
 
  Age Group 35-50
-•	Females: Spending is lower overall, with a median around 470–500, and fairly consistent (tight interquartile range).Median item price is around 55, but there’s wide variation (≈49–65).Buy fewer items, with a median around 8–9 and a compact distribution.
- •	Males: Spend significantly more, with a median just above 800. However, there is an extreme outlier exceeding 1,400, showing that a few men spend exceptionally high amounts. Purchase higher-priced items more consistently, with a narrow range around 67–69.Purchase slightly more on average (median ≈12), with one notable outlier close to 19.
- •  Insight: Males are the dominant spenders in this age group, while females contribute less and remain more consistent. Males lean towards premium products, while females have a wider spread, including more budget-conscious purchases. Men in this age group not only spend more but also buy more items.
+    •	Females: Spending is lower overall, with a median around 470–500, and fairly consistent (tight interquartile range).Median item price is around 55, but there’s wide variation (≈49–65).Buy fewer items, with a median around 8–9 and a compact distribution.
+    •	Males: Spend significantly more, with a median just above 800. However, there is an extreme outlier exceeding 1,400, showing that a few men spend exceptionally high amounts. Purchase higher-priced items more consistently, with a narrow range around 67–69.Purchase slightly more on average (median ≈12), with one notable outlier close to 19.
+    •  Insight: Males are the dominant spenders in this age group, while females contribute less and remain more consistent. Males lean towards premium products, while females have a wider spread, including more budget-conscious purchases. Men in this age group not only spend more but also buy more items.
  
 ![Age group 35-50.png](boxplot_gender_age_35-50.png)
 	
