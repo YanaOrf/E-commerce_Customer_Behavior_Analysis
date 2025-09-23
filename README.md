@@ -88,7 +88,20 @@ Age Group 26-34
  
 ![Age group 35-50.png](boxplot_gender_age_35-50.png)
 	
-	## Do certain membership types lead to higher spend or purchase frequency?
+## Do certain membership types lead to higher spend or purchase frequency?
+
+![user_count_membership](user_count_membership.png)
+
+![total_spend_memebership](total_spend_memebership.png)
+
+![average_total_spend_memebership](average_total_spend_memebership.png)
+
+![item_price_membership](item_price_membership.png)
+
+![Items_purchased_membership](Items_purchased_membership.png)
+
+
+
 	## Are younger vs. older customers different in terms of satisfaction and loyalty?
 	
 	
