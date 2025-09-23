@@ -66,9 +66,9 @@ Data set is available via link: [https://www.kaggle.com/datasets/uom190346a/e-co
         
         When gender groups are broken down into age subgroups, it is clear that men aged 26 to 34 are the group with the highest spending.At the same time, women in this group also spend more than women in the 35-50 age group.	
 
-![total_spend_by gender](total_spend_by gender.png)	
+![total_spend_by_gender](total_spend_by_gender.png)	
 ![Users_by_gender](boxplot_hue.png)	
-	
+
 If we take a closer look at the difference in consumption between age groups, we can see the following:
 		
 Age Group 26-34
@@ -81,28 +81,40 @@ Age Group 26-34
 ![Age group 26-34](boxplot_gender_age_26-34.png)
 
 
- Age Group 35-50
+Age Group 35-50
+
+
     •	Females: Spending is lower overall, with a median around 470–500, and fairly consistent (tight interquartile range).Median item price is around 55, but there’s wide variation (≈49–65).Buy fewer items, with a median around 8–9 and a compact distribution.
     •	Males: Spend significantly more, with a median just above 800. However, there is an extreme outlier exceeding 1,400, showing that a few men spend exceptionally high amounts. Purchase higher-priced items more consistently, with a narrow range around 67–69.Purchase slightly more on average (median ≈12), with one notable outlier close to 19.
     •  Insight: Males are the dominant spenders in this age group, while females contribute less and remain more consistent. Males lean towards premium products, while females have a wider spread, including more budget-conscious purchases. Men in this age group not only spend more but also buy more items.
  
 ![Age group 35-50.png](boxplot_gender_age_35-50.png)
+
+#### Are younger vs. older customers different in terms of satisfaction and loyalty?	
+
+
 	
-## Do certain membership types lead to higher spend or purchase frequency?
+#### Do certain membership types lead to higher spend or purchase frequency?
+
+
+Each of the Gold, Silver, and Bronze memberships has between 115 and 118 users. The size of the membership is about equal.Bronze has nearly all females, while Gold and Silver have an equal number of males and females.Bronze skewed strongly toward the 35–50 age group, while Gold and Silver skewed toward the 26–34 age group.Gold users demonstrate entire satisfaction. Silver and Bronze memberships show higher levels of neutral or unsatisfied customers.
 
 ![user_count_membership](user_count_membership.png)
 
-![total_spend_memebership](total_spend_memebership.png)
-
-![average_total_spend_memebership](average_total_spend_memebership.png)
-
+Gold memebers tend to buy more expensive items and their average shopping cart size is also larger. 
 ![item_price_membership](item_price_membership.png)
-
 ![Items_purchased_membership](Items_purchased_membership.png)
 
+Membership type is strongly associated with higher spending. Gold members have the highest total spend and average spend per customer. They are also the most satisfied group, which correlates with loyalty and repeat purchases.Mid-tier both in count and spend, but less satisfied, indicating possible churn risk. Lowest spend and frequency, dominated by older users, with more dissatisfaction.
+
+![total_spend_memebership](total_spend_memebership.png)
+![average_total_spend_memebership](average_total_spend_memebership.png)
 
 
-	## Are younger vs. older customers different in terms of satisfaction and loyalty?
+
+
+
+
 	
 	
 		
