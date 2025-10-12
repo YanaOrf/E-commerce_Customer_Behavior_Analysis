@@ -64,9 +64,10 @@ Data set is available via link: [https://www.kaggle.com/datasets/uom190346a/e-co
     • Customer groups with highest spend: 
 	    Men spend more: they buy more expensive goods and more items. As for the item's price: despite the lower median price, the price distribution for women is wider. The maximum price is $74-83, while the maximum price for men is $72-77.That is, women purchase more expensive products.
         
-        When gender groups are broken down into age subgroups, it is clear that men aged 26 to 34 are the group with the highest spending.At the same time, women in this group also spend more than women in the 35-50 age group.	
+        
 
 ![total_spend_by_gender](total_spend_by_gender.png)	
+
 ![Users_by_gender](boxplot_hue.png)	
 
 If we take a closer look at the difference in consumption between age groups, we can see the following:
@@ -109,6 +110,8 @@ Membership type is strongly associated with higher spending. Gold members have t
 
 ![total_spend_memebership](total_spend_memebership.png)
 ![average_total_spend_memebership](average_total_spend_memebership.png)
+
+
 
 
 
